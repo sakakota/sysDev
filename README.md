@@ -38,6 +38,6 @@ CREATE TABLE `details` (
 ```
 
 4.動作確認
-動作確認ページは`/index.php`です。
+動作確認ページは`/assignment/index.php`です。
 ブラウザから`http://サーバーアドレス/index.php`にアクセスして動作確認をします。
 構築手順は以上です。
